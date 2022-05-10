@@ -1,5 +1,7 @@
 # Cleanfolio Minimal
 
+Thank You for this Template
+
 A clean and simple portfolio template built with plain HTML, CSS and JavaScript.
 
 ## Preview
